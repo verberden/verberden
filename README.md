@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verberden
 - 👀 I’m interested in TypeScript, NodeJs, Go and backend stuff.
-- 🌱 I’m currently learning how to be a good programmer :). Truing to learn something about algorithms, big O and such stuff.
+- 🌱 I’m currently learning how to be a good programmer :). Trying to learn something about algorithms, big O and such stuff.
 - 📫 How to reach me dev.verberden@gmail.com
 
 <!---
